@@ -4,8 +4,6 @@
 
 This project investigates whether integrating sentiment analysis into customer segmentation can improve clustering performance. The model combines numerical features (Income, Spending) with sentiment scores derived from customer reviews.
 
----
-
 ## 2. Requirements
 
 * Python 3.x
@@ -19,9 +17,6 @@ Install dependencies:
 ```
 pip install pandas scikit-learn matplotlib textblob
 ```
-
----
-
 ## 3. Dataset
 
 * Synthetic dataset (generated in code)
@@ -32,8 +27,6 @@ pip install pandas scikit-learn matplotlib textblob
   * Spending Score
   * Customer Reviews
 
----
-
 ## 4. Methodology
 
 1. Generate synthetic customer data
@@ -41,8 +34,6 @@ pip install pandas scikit-learn matplotlib textblob
 3. Combine numerical + sentiment features
 4. Perform clustering using K-Means
 5. Visualize clusters
-
----
 
 ## 5. How to Run
 
