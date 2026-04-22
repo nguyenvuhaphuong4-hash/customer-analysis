@@ -1,0 +1,101 @@
+Age,Income,Spending,Review,Sentiment,Cluster
+21,37067,94,Terrible support,-1.0,0
+27,27125,55,Terrible support,-1.0,2
+52,19941,64,Absolutely fantastic,0.4,2
+33,28635,82,Could be better,0.5,2
+22,29364,7,Excellent quality,1.0,2
+45,53576,81,Fair enough,0.35,1
+41,37614,84,Okay experience,0.5,0
+45,41024,100,Okay experience,0.5,0
+35,50977,37,Worst purchase ever,-1.0,1
+28,51016,16,Awful product,-1.0,1
+34,59239,4,Superb experience,1.0,1
+41,31349,41,Poor experience,-0.4,0
+48,17746,52,Very bad quality,-0.9099999999999998,2
+24,58409,45,Very satisfied,0.65,1
+38,20975,96,Very bad quality,-0.9099999999999998,2
+43,48670,38,Very disappointing,-0.78,1
+49,58882,28,Pretty decent,0.20833333333333331,1
+55,25937,45,Pretty decent,0.20833333333333331,2
+30,46764,17,Loved it,0.7,1
+56,35565,25,Not bad at all,0.3499999999999999,0
+24,25860,16,Amazing experience,0.6000000000000001,2
+33,50558,34,Could be better,0.5,1
+38,29491,32,Okay experience,0.5,2
+56,31353,35,Not worth the price,-0.15,0
+23,29102,6,Terrible support,-1.0,2
+56,42810,56,Loved it,0.7,0
+40,33906,87,I love this product,0.5,0
+31,46321,45,Pretty decent,0.20833333333333331,1
+43,41458,11,Nothing special,0.35714285714285715,0
+20,32371,14,Very disappointing,-0.78,0
+31,33382,71,Very satisfied,0.65,0
+29,48721,85,Bad service,-0.6999999999999998,1
+48,58579,35,Pretty decent,0.20833333333333331,1
+51,29204,21,It works fine,0.4166666666666667,2
+60,46444,67,Average product,-0.15,1
+48,18181,10,Nothing special,0.35714285714285715,2
+50,38584,70,Could be better,0.5,0
+27,36129,83,Decent but pricey,0.16666666666666666,0
+47,32332,76,Loved it,0.7,0
+38,36948,37,It works fine,0.4166666666666667,0
+31,25718,97,Pretty decent,0.20833333333333331,2
+53,55267,46,Not impressed,-0.5,1
+35,37660,78,Loved it,0.7,0
+41,43825,46,Bad service,-0.6999999999999998,1
+47,21488,77,Pretty decent,0.20833333333333331,2
+38,49321,60,I regret buying this,0.0,1
+29,33636,64,Not bad at all,0.3499999999999999,0
+21,55254,73,I regret buying this,0.0,1
+38,43584,13,Bad service,-0.6999999999999998,1
+36,36918,99,Average product,-0.15,0
+57,38547,13,Poor experience,-0.4,0
+60,54246,94,Highly recommend it,0.16,1
+21,46669,25,Nothing special,0.35714285714285715,1
+23,31107,62,Worst purchase ever,-1.0,0
+54,47919,51,Highly recommend it,0.16,1
+23,29869,22,Worst purchase ever,-1.0,2
+43,49457,96,Poor experience,-0.4,1
+20,46050,52,Average product,-0.15,1
+32,23107,75,Loved it,0.7,2
+42,28072,71,Just okay,0.5,2
+52,50516,67,Excellent quality,1.0,1
+26,30675,63,Very disappointing,-0.78,0
+42,51969,6,Very bad quality,-0.9099999999999998,1
+35,55031,54,Just okay,0.5,1
+45,25934,20,Excellent quality,1.0,2
+29,48486,47,Highly recommend it,0.16,1
+50,55109,24,Pretty decent,0.20833333333333331,1
+31,42560,35,Average product,-0.15,0
+21,22351,76,Nothing special,0.35714285714285715,2
+54,53830,96,Terrible support,-1.0,1
+57,36769,65,I love this product,0.5,0
+33,35015,68,Bad service,-0.6999999999999998,0
+57,49581,20,Could be better,0.5,1
+48,51287,18,Very satisfied,0.65,1
+40,33031,94,I regret buying this,0.0,0
+42,33718,47,Great service,0.8,0
+37,56253,67,Absolutely fantastic,0.4,1
+43,23345,83,Absolutely fantastic,0.4,2
+28,49461,60,Just okay,0.5,1
+53,46077,80,Absolutely fantastic,0.4,1
+46,40439,34,Absolutely fantastic,0.4,0
+22,24933,28,Absolutely fantastic,0.4,2
+50,16663,27,Really happy with this,0.8,2
+35,46498,44,Terrible support,-1.0,1
+54,28784,87,Not impressed,-0.5,2
+28,54222,82,Decent but pricey,0.16666666666666666,1
+39,25419,36,Very satisfied,0.65,2
+38,15215,95,Highly recommend it,0.16,2
+26,30949,55,Not bad at all,0.3499999999999999,0
+25,52112,87,Loved it,0.7,1
+58,45589,98,It works fine,0.4166666666666667,1
+52,23390,78,Amazing experience,0.6000000000000001,2
+31,53182,62,Highly recommend it,0.16,1
+47,28440,85,It works fine,0.4166666666666667,2
+57,31015,84,Excellent quality,1.0,0
+31,25541,12,Really happy with this,0.8,2
+53,55102,58,It works fine,0.4166666666666667,1
+54,43681,84,Fair enough,0.35,1
+44,52206,49,Superb experience,1.0,1
+52,32452,16,Loved it,0.7,0

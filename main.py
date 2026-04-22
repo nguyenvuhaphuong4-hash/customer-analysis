@@ -91,3 +91,6 @@ ax.minorticks_on()
 ax.grid(which='minor', linestyle=':', linewidth=0.5)
 
 plt.show()
+
+# Save dataset to CSV file
+df.to_csv("customer_data.csv", index=False)
