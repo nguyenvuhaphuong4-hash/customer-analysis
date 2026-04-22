@@ -19,13 +19,14 @@ pip install pandas scikit-learn matplotlib textblob
 ```
 ## 3. Dataset
 
-* Synthetic dataset (generated in code)
-* Includes:
+The dataset used in this project is synthetically generated within the code.
 
-  * Age
-  * Income
-  * Spending Score
-  * Customer Reviews
+Features include:
+- Age
+- Income
+- Spending Score
+- Review
+- Sentiment Score (derived using TextBlob)
 
 ## 4. Methodology
 
